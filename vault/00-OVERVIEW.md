@@ -16,3 +16,6 @@
 - `api/stripe_fee.ts` — $29 Stripe Checkout API
 - `api/generate_packet.ts` — RAG-based PDF form mapping engine for escheatment recovery
 - `.sovereign_memory.md` — Architectural log
+
+---
+?? **Sovereign Empire Hub:** [Master Index](file:///e:/hermes/github_fleet/EMPIRE_VAULT_INDEX.md) | [Command Center](file:///e:/hermes/github_fleet/paperclip-website/frontend/SovereignDashboard.tsx)
